@@ -1,4 +1,4 @@
-function sorteio(){
+const sorteio = () => {
    
     let np = document.getElementById("number").value;
 
